@@ -6,7 +6,7 @@ I wanted a tool that can visualize MIDI files in a piano roll fashion but vertic
 
 You can load a MIDI file from the top and visualize it. The file loading happens on the client side, this means no MIDI date is uploaded to the website, it's all done on your computer (in case you care).
 
-You can see a demo [here](gotsopoulos.com/PianoScRoll/).
+You can see a demo [here](https://gotsopoulos.com/PianoScroll/).
 ## Image
 
 ![How it looks](./images/example.png)
