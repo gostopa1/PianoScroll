@@ -10,7 +10,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Vertical Piano Roll — Synesthesia-like</title>
+<title>Piano ScRoll - Vertical Piano Roll</title>
 <style>
   :root{--bg:#0b1020;--card:#0f1724;--muted:#9aa4bf;--accent:#8be9fd}
   html,body{height:100%;margin:0;font-family:Inter,ui-sans-serif,system-ui,Segoe UI,Roboto,'Helvetica Neue',Arial}
@@ -35,7 +35,7 @@
 </head>
 <body>
 <header>
-  <div class="brand">Vertical Piano Roll</div>
+  <div class="brand">Piano ScRoll - Vertical Piano Roll</div>
   <div class="controls">
     <label class="card filedrop">Drop MIDI file or Click to load<input id="midiFileInput" type="file" accept="audio/midi,audio/x-midi,.mid,.midi" style="display:none"></label>
     <button id="zoomIn" class="btn">Zoom+</button>
